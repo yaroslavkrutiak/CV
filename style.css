@@ -105,6 +105,10 @@ p {
     color: #00ec00;
 }
 
+.link:hover {
+    color: #00ec00;
+    transition: all .3s ease-in;
+}
 
 section {
     border-top: 1px solid #dedede;
@@ -162,7 +166,7 @@ section:last-child {
     margin-bottom: 3px;
 }
 
-.projectLink{
+.link{
     text-decoration: none;
     color: black;
 }
